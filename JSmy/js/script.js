@@ -26,3 +26,4 @@ corowV1.onclick = function() {
     if (timePassed > 2000) clearInterval(timer);
 
   }, 20);
+}
